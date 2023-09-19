@@ -1,9 +1,9 @@
 /************************************/
-//									//
-//	Author: Kevin Phan				//
-//	Last modified: Feb. 6 2023      //
-//	Version: 1.0					//
-//									//
+//				    //
+//	Author: Kevin Phan	    //
+//	Last modified: Feb. 6 2023  //
+//	Version: 1.0		    //
+//				    //
 /************************************/
 
 #ifndef WEATHERAPP_H
